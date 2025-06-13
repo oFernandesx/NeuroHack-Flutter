@@ -89,7 +89,9 @@ https://trello.com/b/PjL3gg4H/projeto-app-de-hacks-de-produtividade-diaria
 
 ---
 
-**Tela inicial (Bem-vindo)**
+**Tela inicial (Bem-vindo)**  
+
+<img src="https://github.com/user-attachments/assets/8225cfdf-cba2-4762-9379-c465d57408f1" alt="Image" width="263" />
 
 - Imagem relacionada a uma rotina saudável
 - Texto organizado
@@ -97,23 +99,30 @@ https://trello.com/b/PjL3gg4H/projeto-app-de-hacks-de-produtividade-diaria
     
     
 
-**Apresentação do app**
+<br> **Apresentação do app**      
+
+<img src="https://github.com/user-attachments/assets/af1d0f0b-d30e-4c68-8f28-9fa38d3360f0" alt="Image" width="272" />
+<img width="266" alt="Image" src="https://github.com/user-attachments/assets/b7ed2be1-7e96-42b4-86e5-6108693e7ee0" />
+
+
+
 
 - Texto motivacional
 - Imagem que mostra uma das funcionalidades do app
 - Botão
     
-  
+
     
 
-**Boas vindas ao app**
+<br> **Boas vindas ao app**    
+<img width="270" alt="Image" src="https://github.com/user-attachments/assets/86918c34-9076-4b38-bef1-330db67a5f27" />
 
 - Efeito de confetes no fundo
-    
-  
+
     
 
-**Tarefas**
+<br> **Tarefas**   
+<img width="269" alt="Image" src="https://github.com/user-attachments/assets/355a2270-f19d-4f70-9dba-ffec1043706d" />
 
 - Dias da semana
 - Titulo da página
@@ -122,5 +131,21 @@ https://trello.com/b/PjL3gg4H/projeto-app-de-hacks-de-produtividade-diaria
 - Menu com as telas disponíveis do app
     
 
-    
-    **Boas vindas ao app**
+
+<br> **Calendário**   
+<img width="269" alt="Image" src="https://github.com/user-attachments/assets/3a22c4bb-2f07-4e75-9206-6054c33e749d" />
+
+- Dias da semana em um mês
+- Botão para adidiconar tarefa
+- Ver outros dias e tarefas agendadas
+
+
+
+<br> **Tela de login**   
+<img width="262" alt="Image" src="https://github.com/user-attachments/assets/47e4fd9d-ccaa-480b-8096-0da1bd565db2" />
+
+- Icone representativo de login
+- Botões para fazer login e cadastro
+
+
+
