@@ -25,32 +25,32 @@ class NavButtonBar extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.spaceAround,
         children: [
           _buildNavItem(
-            context: context, // Passa o contexto
+            context: context, 
             index: 0,
             label: 'Tarefas',
             icon: Icons.check_circle_outline,
-            selectedColor: const Color(0xFFFA7B5B), // Laranja para o selecionado
+            selectedColor: const Color(0xFFFA7B5B), 
           ),
           _buildNavItem(
-            context: context, // Passa o contexto
+            context: context, 
             index: 1,
             label: 'Calendário',
             icon: Icons.calendar_today,
-            selectedColor: const Color(0xFF213554), // Azul escuro
+            selectedColor: const Color(0xFF213554), 
           ),
           _buildNavItem(
-            context: context, // Passa o contexto
+            context: context, 
             index: 2,
             label: 'Perfil',
             icon: Icons.person_outline,
-            selectedColor: const Color(0xFF213554), // Azul escuro
+            selectedColor: const Color(0xFF213554), 
           ),
         ],
       ),
     );
   }
 
-  // Método auxiliar para construir cada item de navegação
+
   Widget _buildNavItem({
     required BuildContext context,
     required int index,
@@ -61,7 +61,7 @@ class NavButtonBar extends StatelessWidget {
     final bool isSelected = selectedIndex == index;
 
     return GestureDetector(
-      onTap: () => onItemTapped(index), // Chama a função onItemTapped da tela pai
+      onTap: () => onItemTapped(index), 
       child: Column(
         mainAxisSize: MainAxisSize.min,
         children: [
